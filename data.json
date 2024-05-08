@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Buy Grocieries",
+      "completed": false
+    },
+    {
+      "id": 1,
+      "title": "Walk the Dog",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Read a book",
+      "completed": false
+    }
+  ]
+}
